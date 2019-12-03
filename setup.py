@@ -23,7 +23,7 @@ setup(
     long_description=readme,
     author='Oka Naoya',
     author_email='pn11@users.noreply.github.com',
-    url='https://github.com/pn11/python-command-sample',
+    url='https://github.com/pn11/python-command-line-sample',
     license=license,
     package_dir={"": "src"},
     packages=find_packages(
