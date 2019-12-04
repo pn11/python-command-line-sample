@@ -21,7 +21,7 @@ setup(
     version=VERSION,
     description="Todo App",
     long_description=readme,
-    author='Oka Naoya',
+    author='pn11',
     author_email='pn11@users.noreply.github.com',
     url='https://github.com/pn11/python-command-line-sample',
     license=license,

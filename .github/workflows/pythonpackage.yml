@@ -23,8 +23,7 @@ jobs:
     - name: Install Package
       run: |
         python setup.py install
-        todo show
-    - name: Test with pytest
+    - name: Test with nose
       run: |
-        pip install pytest
-        pytest
+        pip install nose
+        nosetests
