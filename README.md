@@ -1,4 +1,4 @@
-# CUI Command Sample in Python (Under Construction)
+# CUI Command Sample in Python
 
 This is a sample project for a CUI command written in Python. To write a command, all we need to know is how to use `argparse` and how to write `setup.py`.
 In this example, I will make a command called `todo` which has commands like below.
